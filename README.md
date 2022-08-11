@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lvl162
 - 👀 I’m interested in swimming, playing guitar and watching movies.
-- 🌱 I’m currently learning IT at Danang Polytechnic University
+- 🌱 I’m currently learning IT at Danang University of Science & Technology
 
 
 <!---
