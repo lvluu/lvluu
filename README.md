@@ -1,4 +1,4 @@
-🚀 **DevOps Engineer | Cloud & Systems Automation | Full-Stack Developer**  
+**Software Engineer | Full-Stack Development | DevOps & Cloud Automation**  
 📍 Da Nang, Vietnam  
 📫 [luuvanloi@duck.com](mailto:luuvanloi@duck.com) · [lvluu.site](https://lvluu.site) · [LinkedIn](https://www.linkedin.com/in/luuvanloi/)  
 
@@ -6,22 +6,24 @@
 
 ### 🧩 About Me  
 
-I’m a **DevOps Engineer** passionate about cloud automation, system reliability, and homelab tinkering.  
-With 3+ years of experience across **AWS**, **Kubernetes**, **Terraform**, and **CI/CD pipelines**,  
-I build scalable infrastructure and love turning complex problems into elegant automation.
+I'm a **Software Engineer** passionate about building full-stack applications, cloud automation, and system reliability.
+I work across **Go**, **Java**, **Node.js**, **React**, **AWS**, **Kubernetes**, **Terraform**, and **CI/CD pipelines** —
+building scalable systems and turning complex problems into elegant solutions.
 
-🧠 Previously worked on full-stack projects using **Go**, **Java**, **Node.js**, and **React**.  
-💻 I enjoy experimenting with **Proxmox**, **Linux**, and **self-hosting** in my free time.
+I also enjoy experimenting with **Proxmox**, **Linux**, and **self-hosting** in my free time.
 
 ---
 
 ### ⚙️ Tech Stack  
 
-**DevOps & Cloud:**  
-`Kubernetes` · `Docker` · `Terraform` · `Ansible` · `Grafana` · `Prometheus` · `Helm` · `Jenkins`  
+**Languages & Tools:**
+`Go` · `Python` · `Node.js` · `Java` · `React` · `GitHub Actions` · `Linux`
 
-**Languages & Tools:**  
-`Go` · `Python` · `Node.js` · `Java` · `PostgreSQL` · `GitHub Actions` · `Linux`  
+**Databases:**
+`PostgreSQL` · `MySQL` · `Redis` · `SQLite` · `Cloudflare D1` · `MongoDB`
 
-**Self-Host / Homelab:**  
+**DevOps & Cloud:**
+`Kubernetes` · `Docker` · `Terraform` · `Ansible` · `Grafana` · `Prometheus` · `Helm` · `Jenkins`
+
+**Self-Host / Homelab:**
 `Proxmox` · `Networking` · `Virtualization` · `Monitoring`  
