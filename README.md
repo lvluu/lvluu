@@ -2,7 +2,7 @@
 
 Senior full-stack engineer in Da Nang, Vietnam. Open to remote roles.
 
-I build a large enterprise web app end to end: data model, API, UI, and the deploys and CI that keep it alive. Most of my thinking now goes into working with AI agents. They write plenty of code; I care about making them prove it works and stop to ask when they can't.
+I build a large enterprise web app end to end: data model, API, UI, and the deploys and CI that keep it alive. I work with AI agents now.
 
 [luuvanloi@duck.com](mailto:luuvanloi@duck.com) · [lvluu.is-a.dev](https://lvluu.is-a.dev/) · [LinkedIn](https://www.linkedin.com/in/luuvanloi/)
 
