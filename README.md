@@ -6,7 +6,7 @@ I build the app and the platform it runs on: data model, API, UI, CI and the Kub
 
 I work with AI agents daily and make them prove their work: tests, CI gates, and a browser agent that checks each PR in the running app.
 
-**[Resume (PDF)](https://github.com/lvluu/resume/blob/main/Loi_Van_Luu_CV.pdf)** · [luuvanloi@duck.com](mailto:luuvanloi@duck.com) · [lvluu.is-a.dev](https://lvluu.is-a.dev/) · [LinkedIn](https://www.linkedin.com/in/luuvanloi/)
+[luuvanloi@duck.com](mailto:luuvanloi@duck.com) · [lvluu.is-a.dev](https://lvluu.is-a.dev/) · [LinkedIn](https://www.linkedin.com/in/luuvanloi/)
 
 AWS Solutions Architect Associate · CKA · LFCS
 
@@ -17,6 +17,5 @@ AWS Solutions Architect Associate · CKA · LFCS
 - [PandaEnglish](https://panda-english.space/): IELTS practice with AI feedback on all four skills (team project, I own the API).
 - [Smarter](https://smarter.chickeninkitchen.workers.dev/): a knowledge feed built around spaced repetition, not doomscrolling.
 - [Primavista](https://primavista.chickeninkitchen.workers.dev/): local-first sight-reading practice for piano.
-- [resume](https://github.com/lvluu/resume): my CV as code with RenderCV.
 
 Off the clock: Proxmox, Linux, self-hosting.
