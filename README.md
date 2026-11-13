@@ -1,6 +1,6 @@
 # Luu Van Loi
 
-<p align="center"><img src="assets/hero.jpg" alt="Pencil drawing of two engineers and a small robot crossing a plank bridge over a gap" width="100%"></p>
+<p align="center"><img src="assets/hero.png" alt="Pixel art of an engineer and a small robot joining two floating islands with a plank bridge" width="100%"></p>
 
 Full-stack and DevOps engineer in Da Nang, Vietnam. Open to remote roles.
 
