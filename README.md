@@ -1,5 +1,7 @@
 # Luu Van Loi
 
+<p align="center"><img src="assets/hero.jpg" alt="Pencil drawing of two engineers and a small robot crossing a plank bridge over a gap" width="100%"></p>
+
 Full-stack and DevOps engineer in Da Nang, Vietnam. Open to remote roles.
 
 I build the app and the platform it runs on: data model, API, UI, CI and the Kubernetes deploys. Right now I'm one of two engineers on an ERP for wind and solar parks that replaces Microsoft Dynamics Business Central. Before that I built App Factory, which took new app setup (repo, pipeline, environments) from days to about 10 minutes.
